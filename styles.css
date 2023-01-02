@@ -62,15 +62,12 @@ main {
 .column {
   width: 50%; 
   margin: auto; 
-  text-align: center; 
+  padding: px; 
+  text-align: center;
+  font-size: 14px; 
 }
-.left {
-  padding-left: 60px ;
-}
-.right { 
-  text-align: right;
-  padding-right: 30px; 
-}
+
+
 .column .img {
   margin: auto; 
 }
