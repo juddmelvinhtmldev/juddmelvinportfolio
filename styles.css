@@ -130,7 +130,7 @@ main {
 }
 
 .project img {
-  width: 15em; 
+  max-width: 15em; 
   height: 12.5em; 
   object-fit: cover;  
   border-top-right-radius: 20px;
